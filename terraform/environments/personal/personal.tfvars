@@ -1,6 +1,0 @@
-resource_group_name = "rg-fastapi-azure"
-location            = "East US"
-container_app_name  = "hello-azure"
-container_image     = "annahurtovenko/hello-azure:v1"
-subscription_id     = "f445d7af-faa3-4760-8df8-dd282e5c69ba"
-
