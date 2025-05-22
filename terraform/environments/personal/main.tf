@@ -11,3 +11,4 @@ module "container_app" {
   container_image     = var.container_image
   container_app_name  = var.container_app_name
 }
+
