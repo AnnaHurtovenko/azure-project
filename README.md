@@ -79,4 +79,4 @@ This successfully deployed the FastAPI application to Azure Container App. The c
 ## Live Example
 You can open the deployed app directly in the browser using the output URL provided by Terraform, for example:
 
-[https://hello-azure--example-region.azurecontainerapps.io/](https://hello-azure--example-region.azurecontainerapps.io/)
+[https://hello-azure--klete3i.jollyplant-181d9afa.eastus.azurecontainerapps.io/](https://hello-azure--klete3i.jollyplant-181d9afa.eastus.azurecontainerapps.io/)
